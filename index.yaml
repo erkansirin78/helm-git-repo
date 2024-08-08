@@ -3,7 +3,7 @@ entries:
   gitrepotest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-08T15:08:25.03280666+03:00"
+    created: "2024-08-08T15:35:47.305199246+03:00"
     description: A Helm chart for Github Repo Demo 2024
     digest: a3f02a4e7589bccf2f5ba51f6fe16a4399c2114ff9bfff57c2d18c3e4b0ceb18
     name: gitrepotest
@@ -11,4 +11,15 @@ entries:
     urls:
     - gitrepotest-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-08T15:08:25.030665585+03:00"
+  gitrepotest2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-08T15:35:47.308220039+03:00"
+    description: Helm Chart for GitRepo Test2
+    digest: 97d55a59695cf6fb0dd50dcfdfd5a63e63dd622412bb067b2a22a67e6b0f14b0
+    name: gitrepotest2
+    type: application
+    urls:
+    - gitrepotest2-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-08T15:35:47.303026485+03:00"
